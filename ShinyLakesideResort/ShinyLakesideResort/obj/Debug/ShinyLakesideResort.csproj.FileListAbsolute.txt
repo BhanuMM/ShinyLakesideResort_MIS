@@ -1,0 +1,88 @@
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.addemp.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.addorremoveuser.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.AdminHome.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.EMPLOYERDETAILS2.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.reseptionhalllog.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.ReserveRoomDetails.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.RestaurantTrans.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.HomeMenu.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.Properties.Resources.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.Restaurant.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.RoomReservationMain.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.RoomreservationsLOG.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.UPDATEOR_DELETEEMP.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.UserLogin.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.viewemployer.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.csproj.GenerateResource.Cache
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\bin\Debug\ShinyLakesideResort.exe.config
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\bin\Debug\ShinyLakesideResort.exe
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\bin\Debug\ShinyLakesideResort.pdb
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.exe
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.pdb
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.csprojResolveAssemblyReference.cache
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.ReceptionHall.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.Resources.freeandpay.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.CheckOut.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.updatereception.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.ReceptionMain.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.BillPrint.resources
+C:\Users\ACER\documents\visual studio 2015\Projects\ShinyLakesideResort\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.Restaurantnew.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\bin\Debug\ShinyLakesideResort.exe.config
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.exe
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.pdb
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\bin\Debug\ShinyLakesideResort.exe
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\bin\Debug\ShinyLakesideResort.pdb
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.csprojResolveAssemblyReference.cache
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.addemp.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.addorremoveuser.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.AdminHome.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.BillPrint.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.CheckOut.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.EMPLOYERDETAILS2.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.ReceptionHall.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.Restaurantnew.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.updatereception.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.ReceptionMain.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.reseptionhalllog.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.ReserveRoomDetails.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.Resources.freeandpay.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.RestaurantTrans.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.HomeMenu.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.Properties.Resources.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.Restaurant.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.RoomReservationMain.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.RoomreservationsLOG.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.UPDATEOR_DELETEEMP.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.UserLogin.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.viewemployer.resources
+C:\Users\Bhanuji PC\Documents\Visual Studio 2013\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.csproj.GenerateResource.Cache
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\bin\Debug\ShinyLakesideResort.exe.config
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\bin\Debug\ShinyLakesideResort.exe
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\bin\Debug\ShinyLakesideResort.pdb
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.csprojAssemblyReference.cache
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.addemp.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.addorremoveuser.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.AdminHome.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.BillPrint.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.CheckOut.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.EMPLOYERDETAILS2.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.ReceptionHall.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.Restaurantnew.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.updatereception.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.ReceptionMain.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.reseptionhalllog.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.ReserveRoomDetails.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.Resources.freeandpay.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.RestaurantTrans.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.HomeMenu.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.Properties.Resources.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.Restaurant.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.RoomReservationMain.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.RoomreservationsLOG.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.UPDATEOR_DELETEEMP.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.UserLogin.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.viewemployer.resources
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.csproj.GenerateResource.cache
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.csproj.CoreCompileInputs.cache
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.exe
+F:\Projects\ShinyLakesideResortnew\ShinyLakesideResort\obj\Debug\ShinyLakesideResort.pdb
